@@ -19,8 +19,4 @@ Join our community to stay up-to-date with the latest developments, share your i
 
 ## 👫 Contact Us
 
-For any questions or inquiries, please reach out to us at [alexon1999@gmail.com](mailto:alexon1999@gmail.com].
-
-## License
-
-All of our projects are released under the [MIT License](LICENSE).
+For any questions or inquiries, please reach out to us at [alexon1999@gmail.com](mailto:alexon1999@gmail.com).
